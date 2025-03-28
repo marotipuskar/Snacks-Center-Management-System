@@ -43,13 +43,16 @@
 ```bash
 git clone https://github.com/your-username/snacks-center.git
 
-<big>2️⃣ Navigate to the project folder:</big>
+
+2️⃣ Navigate to the project folder:
 
 cd snacks-center
 
-<big>3️⃣ Run the Python script:</big>
+
+3️⃣ Run the Python script:
 
 python snacks_center.py
 
-<p>🤝 Contribution</p>
+
+🤝 Contribution
 Have suggestions to further optimize time & space complexity? Feel free to fork, raise issues, or submit PRs!
