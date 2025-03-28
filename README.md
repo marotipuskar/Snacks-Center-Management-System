@@ -43,6 +43,3 @@
 ```bash
 git clone https://github.com/your-username/snacks-center.git
 
-
-2️⃣ Navigate to the project folder:
-cd snacks-center
